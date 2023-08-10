@@ -1,0 +1,7 @@
+1:Java Script
+
+2:HTML
+
+3:To store other tags,To give seprate styling.
+
+4:
